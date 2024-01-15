@@ -86,7 +86,8 @@ a:hover {
   overflow: hidden;
 }
 .logo{
-  font-family: Helvetica, sans-serif;
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-transform: uppercase;
 }
 
 .bg-image {
